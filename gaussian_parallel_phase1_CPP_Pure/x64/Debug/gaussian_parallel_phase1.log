@@ -1,0 +1,14 @@
+﻿  printItems.cpp
+  main.cpp
+  likelihood.cpp
+  gaussian.cpp
+  expected_cost.cpp
+  estimate.cpp
+  conf.cpp
+  Generating Code...
+  gaussian_parallel_phase1.vcxproj -> D:\EE_590\ANRG\Phase1\Code\gaussian_parallel_phase1_CPP_Pure\x64\Debug\gaussian_parallel_phase1.exe
+  gaussian_parallel_phase1.vcxproj -> D:\EE_590\ANRG\Phase1\Code\gaussian_parallel_phase1_CPP_Pure\x64\Debug\gaussian_parallel_phase1.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart*.dll" "D:\EE_590\ANRG\Phase1\Code\gaussian_parallel_phase1_CPP_Pure\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart32_90.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart64_90.dll
+          2 file(s) copied.
