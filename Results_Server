@@ -1,0 +1,661 @@
+(base) ripa@eclipse:~/davidbha/ForIntegration/Integration_Phase1$ python mqtt-server.py 
+
+--> Socket server created..
+--> Looking for clients...
+##################Test # 1 ##################
+
+--> Connected to the client
+
+Enter # to end the connection
+
+
+Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 228
+MicroSeconds: 228731
+NanoSeconds: 228731747
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 2 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 65
+MicroSeconds: 65653
+NanoSeconds: 65653009
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 3 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 65
+MicroSeconds: 65756
+NanoSeconds: 65756208
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 4 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 65
+MicroSeconds: 65613
+NanoSeconds: 65613398
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 5 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 65
+MicroSeconds: 65553
+NanoSeconds: 65553456
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 6 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 65
+MicroSeconds: 65356
+NanoSeconds: 65356236
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 7 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 65
+MicroSeconds: 65479
+NanoSeconds: 65479196
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 8 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 65
+MicroSeconds: 65730
+NanoSeconds: 65730702
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 9 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51540
+NanoSeconds: 51540317
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 10 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51153
+NanoSeconds: 51153123
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 11 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51909
+NanoSeconds: 51909356
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 12 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51153
+NanoSeconds: 51153366
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 13 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51709
+NanoSeconds: 51709523
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 14 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51109
+NanoSeconds: 51109411
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 15 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51800
+NanoSeconds: 51800871
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 16 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51750
+NanoSeconds: 51750282
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 17 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52815
+NanoSeconds: 52815198
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 18 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 50
+MicroSeconds: 50940
+NanoSeconds: 50940603
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 19 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51978
+NanoSeconds: 51978387
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 20 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51282
+NanoSeconds: 51282698
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 21 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51802
+NanoSeconds: 51802479
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 22 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52953
+NanoSeconds: 52953516
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 23 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52626
+NanoSeconds: 52626041
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 24 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51464
+NanoSeconds: 51464481
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 25 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52172
+NanoSeconds: 52172179
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 26 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51789
+NanoSeconds: 51789482
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 27 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52366
+NanoSeconds: 52366688
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 28 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51472
+NanoSeconds: 51472105
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 29 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51394
+NanoSeconds: 51394561
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 30 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51006
+NanoSeconds: 51006664
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 31 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52042
+NanoSeconds: 52042869
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 32 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52437
+NanoSeconds: 52437733
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 33 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 50
+MicroSeconds: 50922
+NanoSeconds: 50922576
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 34 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51214
+NanoSeconds: 51214160
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 35 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51767
+NanoSeconds: 51767613
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 36 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51262
+NanoSeconds: 51262104
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 37 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 54
+MicroSeconds: 54198
+NanoSeconds: 54198137
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 38 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51723
+NanoSeconds: 51723498
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 39 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51694
+NanoSeconds: 51694317
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 40 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51697
+NanoSeconds: 51697304
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 41 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52541
+NanoSeconds: 52541935
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 42 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52630
+NanoSeconds: 52630368
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 43 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52266
+NanoSeconds: 52266347
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 44 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52394
+NanoSeconds: 52394861
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 45 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51700
+NanoSeconds: 51700253
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 46 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51402
+NanoSeconds: 51402770
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 47 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52126
+NanoSeconds: 52126865
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 48 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 52
+MicroSeconds: 52263
+NanoSeconds: 52263575
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 49 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51960
+NanoSeconds: 51960829
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+##################Test # 50 ##################
+
+Server: Recieved from Client: {'observation': [-120.40999999999991, -126.28899999999972, -125.26200000000017], 'Tx': [1, 2, 3], 'Ty': [5, 5, 5], 'timestamp': [1563815078.0], 'msg_id': 1, 'real_pos': (1, 5), 'ALG': 'MESE', 'channel': 'one', 'authentication': '(l!=N| REQ: '}
+Obtained Answer: 0 28
+-----Statisics-----
+Execution Time : 
+Seconds: 0
+MilliSeconds: 51
+MicroSeconds: 51786
+NanoSeconds: 51786581
+$35V35 OUTPUT: OK; [0,28]
+##################End of Test########################
+
+Server: Recieved from Client: $35V35 OUTPUT: OK; [0,28]
+Server: Recieved from Client: $35V35 OUTPUT: NOK - INVALID INPUT

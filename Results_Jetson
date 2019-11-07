@@ -1,0 +1,408 @@
+nvidia@tegra-ubuntu:~/RichmondJohnson/ForIntegration/Integration_Phase1$ python mqtt-server.py
+
+--> Socket server created..
+--> Looking for clients...
+--> Connected to the client
+
+Enter # to end the connection
+
+##################Test # 1 ##################
+
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 1.253692865371704
+1.2537336349487305
+##################End of Test########################
+
+##################Test # 2 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4808669090270996
+0.48090243339538574
+##################End of Test########################
+
+##################Test # 3 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.49134087562561035
+0.4913768768310547
+##################End of Test########################
+
+##################Test # 4 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4123716354370117
+0.41240620613098145
+##################End of Test########################
+
+##################Test # 5 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40236902236938477
+0.4024014472961426
+##################End of Test########################
+
+##################Test # 6 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4141669273376465
+0.414201021194458
+##################End of Test########################
+
+##################Test # 7 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4081721305847168
+0.40820813179016113
+##################End of Test########################
+
+##################Test # 8 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40737438201904297
+0.4074113368988037
+##################End of Test########################
+
+##################Test # 9 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3950531482696533
+0.39508867263793945
+##################End of Test########################
+
+##################Test # 10 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39896488189697266
+0.3989999294281006
+##################End of Test########################
+
+##################Test # 11 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3949599266052246
+0.39499449729919434
+##################End of Test########################
+
+##################Test # 12 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4057013988494873
+0.40573763847351074
+##################End of Test########################
+
+##################Test # 13 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4186370372772217
+0.4186739921569824
+##################End of Test########################
+
+##################Test # 14 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4028947353363037
+0.40293002128601074
+##################End of Test########################
+
+##################Test # 15 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4007606506347656
+0.40079474449157715
+##################End of Test########################
+
+##################Test # 16 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39511919021606445
+0.3951544761657715
+##################End of Test########################
+
+##################Test # 17 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4057192802429199
+0.40575528144836426
+##################End of Test########################
+
+##################Test # 18 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40466928482055664
+0.4047055244445801
+##################End of Test########################
+
+##################Test # 19 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40018296241760254
+0.40021753311157227
+##################End of Test########################
+
+##################Test # 20 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40448570251464844
+0.40452027320861816
+##################End of Test########################
+
+##################Test # 21 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4011082649230957
+0.40114521980285645
+##################End of Test########################
+
+##################Test # 22 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3950810432434082
+0.39511680603027344
+##################End of Test########################
+
+##################Test # 23 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40571093559265137
+0.4057464599609375
+##################End of Test########################
+
+##################Test # 24 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39616870880126953
+0.39620280265808105
+##################End of Test########################
+
+##################Test # 25 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4008052349090576
+0.40083909034729004
+##################End of Test########################
+
+##################Test # 26 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3951759338378906
+0.39521002769470215
+##################End of Test########################
+
+##################Test # 27 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39604711532592773
+0.39608263969421387
+##################End of Test########################
+
+##################Test # 28 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39409685134887695
+0.3941318988800049
+##################End of Test########################
+
+##################Test # 29 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39609503746032715
+0.3961310386657715
+##################End of Test########################
+
+##################Test # 30 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.391155481338501
+0.3911895751953125
+##################End of Test########################
+
+##################Test # 31 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39516568183898926
+0.3952000141143799
+##################End of Test########################
+
+##################Test # 32 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4036860466003418
+0.4037191867828369
+##################End of Test########################
+
+##################Test # 33 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40156006813049316
+0.4015951156616211
+##################End of Test########################
+
+##################Test # 34 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40154147148132324
+0.4015781879425049
+##################End of Test########################
+
+##################Test # 35 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39545154571533203
+0.39548826217651367
+##################End of Test########################
+
+##################Test # 36 ##################
+
+estimate start
+Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Serverr: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Ans Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Serveer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained An: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Servwer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained Ar: Obtained Answer: 0 28Server: Obtained Answer: 0 28Server: Obtained $35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.40257692337036133
+0.40260839462280273
+##################End of Test########################
+
+##################Test # 37 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3969912528991699
+0.39702749252319336
+##################End of Test########################
+
+##################Test # 38 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4005255699157715
+0.4005603790283203
+##################End of Test########################
+
+##################Test # 39 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4225308895111084
+0.42256617546081543
+##################End of Test########################
+
+##################Test # 40 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4124300479888916
+0.41246652603149414
+##################End of Test########################
+
+##################Test # 41 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.41186094284057617
+0.4118962287902832
+##################End of Test########################
+
+##################Test # 42 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3961365222930908
+0.39617085456848145
+##################End of Test########################
+
+##################Test # 43 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4192647933959961
+0.4192988872528076
+##################End of Test########################
+
+##################Test # 44 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3964555263519287
+0.39649295806884766
+##################End of Test########################
+
+##################Test # 45 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3995230197906494
+0.39955854415893555
+##################End of Test########################
+
+##################Test # 46 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39972615242004395
+0.399761438369751
+##################End of Test########################
+
+##################Test # 47 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.4056112766265869
+0.40564489364624023
+##################End of Test########################
+
+##################Test # 48 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3975334167480469
+0.3975687026977539
+##################End of Test########################
+
+##################Test # 49 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.39511632919311523
+0.39514946937561035
+##################End of Test########################
+
+##################Test # 50 ##################
+
+estimate start
+$35V35 OUTPUT: OK; [0,28]
+time elapsed: 0.3945162296295166
+0.39455223083496094
+##################End of Test########################
