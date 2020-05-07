@@ -1,0 +1,43 @@
+# Lczn Client
+This part is a simple web application used to render the estimate location, real location and round trip delay.
+## About React-Native
+You can see an introduction about react [here](https://facebook.github.io/react-native/)
+
+In this application, we utilized react-native component to construct web page.
+
+**The Component Lifecycle:**
+
+These methods are called when an instance of a component is being created and inserted into the DOM:
+```
+constructor()
+componentWillMount()
+render()
+componentDidMount()
+```
+where 
+
+constructor() used to initial private class variable, 
+
+componentWillMount() used to update them, 
+
+and render() return a html segment.
+
+
+
+## Structure
+Firstly, I'd like to break The UI Into a component hierarchy.A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents.
+
+So in our application, main component is App.js, it include three children: Subscribe.js, Location.js, Floor.js.
+
+ **App.js:**   Control the three children component and record private variables  such as channel number, a list of received message, estimate location and real location in latest message
+
+**Subscribe :** Render a select dropdown using [react-native-modal-dropdown](https://github.com/sohobloo/react-native-modal-dropdown) and submit button. Select the channel you want to listen after click "Submit" button
+
+**Floor :** Render estimate location  and real location in grid using [React-Native Highcharts](https://github.com/TradingPal/react-native-highcharts)
+
+**Location :** Display round trip delay,  real location and  estimate location in a list
+
+![structure](../images/lczn-client.png)
+## Sample Output
+
+![sample output](../images/mobile_sample.png)

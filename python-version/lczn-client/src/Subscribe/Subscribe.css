@@ -1,0 +1,14 @@
+.Select-control {
+    margin-left: 10px;
+    width: 400%;
+}
+.subscribe-form-submit {
+    position: absolute;
+    right: 50px;
+    margin-top: 5px;
+    background-color: dodgerblue;
+    color: white;
+    border-width: 0px;
+    border-radius: 2px;
+    padding: 5px;
+}

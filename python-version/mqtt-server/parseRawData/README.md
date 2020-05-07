@@ -1,0 +1,1 @@
+parse raw data to get file "RSS_Location"
