@@ -4,7 +4,11 @@ This repository maintains the localization software. The python version of the f
 Note:
 -----
 
-Please refer the architecture diagram in Section 8 of the report located in /root/GPU-Optimizations/GPU_Optimization_Report.pdf. This is to understand the various modules and their installing in the appropriate PCs. It is recommended to read through the section thoroughly before installing the required components
+1) Please refer the architecture diagram in Section 8 of the report located in /root/GPU-Optimizations/GPU_Optimization_Report.pdf. This is to understand the various modules and their installing in the appropriate PCs. It is recommended to read through the section thoroughly before installing the required components
+
+2) The code in this repository is the most optimized of the 4 versions as discussed in the report
+
+3) The tests were made on an embedded GPU platform viz., NVIDIA Jetson Tx2 and therefore most of the resuts (including the deviceQuery and result fetch sctipts) are discussed from that GPU perspective. However the code is scalable and can be run on any CUDA enabled NVIDIA GPU.
 
 
 INSTALLATION:
