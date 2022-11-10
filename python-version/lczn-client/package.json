@@ -12,7 +12,7 @@
     "react-highcharts": "^13.0.0",
     "react-highlight": "^0.10.0",
     "react-select": "^1.0.0-rc.10",
-    "socket.io-client": "^2.0.4"
+    "socket.io-client": "^2.5.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.14"
